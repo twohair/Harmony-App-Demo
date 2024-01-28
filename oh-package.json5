@@ -1,0 +1,15 @@
+{
+  "name": "myapplication",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "har": "file:HAR/build/default/outputs/default/HAR.har",
+    "hsp": "file:HSP/build/default/outputs/default/HSP.har"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}
